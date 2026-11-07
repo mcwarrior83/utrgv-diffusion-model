@@ -3,3 +3,10 @@
 
 # Images
 *.png
+
+# Building a packaging artifcats 
+__pycache__
+*.egg-info
+
+# directory
+csdms-diffusion-model/
